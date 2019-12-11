@@ -1,0 +1,7 @@
+['right to rectification', 'rectification', 'Berichtigung' , 'berichtigung', 'Recht auf Berichtigung', 'recht auf berichtigung']
+
+['data portability' , 'Data Portability' , 'Datenübertragbarkeit' , 'datenübertragbarkeit' , 'Recht auf Datenübertragbarkeit' , 'recht auf datenübertragbarkeit']
+
+['right to deletion' , 'Right to Deletion' , 'deletion', 'Recht auf Löschung' , 'recht auf löschung' , 'right to be forgotten' , 'Right to be Forgotten' , 'Recht, vergessen zu werden' , 'recht, vergessen zu werden', 'Streichung' , 'streichung']
+
+['right to objection' , 'right of objection' , 'right to object', 'Right to Object' , 'Right of Objection' , 'Right to Objection', 'object', 'Object, 'Objection' , 'objection' , 'Widerspruchsrecht' , 'widerspruchsrecht', 'Objekt' , 'objekt', 'Einwand', 'einwand', 'einwande' , 'Einwande']
