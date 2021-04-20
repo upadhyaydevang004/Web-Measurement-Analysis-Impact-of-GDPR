@@ -38,7 +38,7 @@ plyvel==1.1.0
 prompt-toolkit==2.0.10    # via ipython
 psutil==5.4.8
 publicsuffix==1.1.0
-py==1.8.0                 # via pytest
+py==1.10.0                 # via pytest
 pyarrow==0.15.1
 pyasn1==0.4.8
 pycodestyle==2.5.0        # via flake8
